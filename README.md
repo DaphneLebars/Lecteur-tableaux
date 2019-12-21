@@ -1,3 +1,3 @@
 # Lecteur-tableaux
-Lit un fichier txt et remplit des tableaux grâce aux vecteurs.
+Lit un fichier texte et remplit des tableaux grâce aux vecteurs.
 
