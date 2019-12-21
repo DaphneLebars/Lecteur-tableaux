@@ -1,3 +1,3 @@
 # Lecteur-tableaux
-Lit un fichier texte et remplit des tableaux grâce aux vecteurs.
+Lit un fichier texte et remplit un vecteur de pays et de leurs informations.
 
